@@ -178,8 +178,6 @@ function permutations(arr, perm = [], result = []) {
 ![alt text](https://pictures.s3.yandex.net/resources/S1_02_01_grafic_v02_1588327443.png)
 
 
-⚡
-
 
 
 
